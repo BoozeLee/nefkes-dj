@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "framework": "flutter",
+  "build": {
+    "env": {
+      "FLUTTER_WEB_RENDERER": "canvaskit"
+    }
+  },
+  "routes": [
+    {
+      "handle": "filesystem"
+    }
+  ]
+}
